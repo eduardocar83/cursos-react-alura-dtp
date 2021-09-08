@@ -1,2 +1,2 @@
 # cursos-react-alura-dtp
-Cursos de React, que eu completei, na plataforma Alura
+Cursos de React completados na plataforma Alura
