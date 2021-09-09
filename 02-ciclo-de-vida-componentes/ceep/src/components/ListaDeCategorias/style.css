@@ -1,0 +1,30 @@
+.lista-categorias {
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-grow: 1;
+    
+
+}
+
+.lista-categorias li {
+    background-color: gainsboro;
+    padding: 6px;
+    border-radius: 4px;
+}
+
+.lista-categorias-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+.input-container {
+    flex: 1;
+    text-align: center;
+    padding-top: 18px;
+    
+}
